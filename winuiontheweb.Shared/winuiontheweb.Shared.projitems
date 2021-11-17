@@ -35,6 +35,7 @@
     <PRIResource Include="$(MSBuildThisFileDirectory)Strings\en\Resources.resw" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="$(MSBuildThisFileDirectory)Assets\uno_conf_no_bg.png" />
     <Content Include="$(MSBuildThisFileDirectory)Assets\winui_.jpeg" />
   </ItemGroup>
 </Project>
