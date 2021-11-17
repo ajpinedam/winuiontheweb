@@ -1,0 +1,21 @@
+{
+  "solution": {
+    "path": "winuiontheweb.sln",
+    "projects": [
+		"winuiontheweb.Shared\\winuiontheweb.Shared.shproj",
+
+		"winuiontheweb.Droid\\winuiontheweb.Droid.csproj",
+
+		"winuiontheweb.iOS\\winuiontheweb.iOS.csproj",
+
+
+		"winuiontheweb.Wasm\\winuiontheweb.Wasm.csproj",
+
+		"winuiontheweb.macOS\\winuiontheweb.macOS.csproj",
+
+		"winuiontheweb.Skia.Gtk\\winuiontheweb.Skia.Gtk.csproj",
+
+		"winuiontheweb.Skia.Linux.FrameBuffer\\winuiontheweb.Skia.Linux.FrameBuffer.csproj",
+    ]
+  }
+}
